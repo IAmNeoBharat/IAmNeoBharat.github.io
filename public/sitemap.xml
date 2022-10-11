@@ -2,16 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/products/accounting/</loc>
-    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
-  </url><url>
     <loc>/work/fall-plaza/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
     <loc>/work/modern-hospital/</loc>
-    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
-  </url><url>
-    <loc>/products/tax-filing/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
     <loc>/work/cargo-terminal/</loc>
@@ -26,17 +20,14 @@
     <loc>/pages/</loc>
     <lastmod>2018-12-06T09:29:16+10:00</lastmod>
   </url><url>
-    <loc>/products/mergers/</loc>
+    <loc>/products/geolocation/</loc>
     <lastmod>2018-11-28T15:15:34+10:00</lastmod>
   </url><url>
-    <loc>/products/business-sales/</loc>
+    <loc>/products/ddn/</loc>
     <lastmod>2018-11-28T15:15:26+10:00</lastmod>
   </url><url>
-    <loc>/products/superannuation/</loc>
+    <loc>/products/navigation/</loc>
     <lastmod>2018-11-28T15:14:54+10:00</lastmod>
-  </url><url>
-    <loc>/products/business-advisory/</loc>
-    <lastmod>2018-11-28T15:14:39+10:00</lastmod>
   </url><url>
     <loc>/contact/</loc>
     <lastmod>2018-02-22T17:01:34+07:00</lastmod>
