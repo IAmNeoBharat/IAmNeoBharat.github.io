@@ -1,6 +1,6 @@
 baseURL = "https://iamneobharat.github.io"
 languageCode = "en-us"
-title = "Hugo Hero Theme"
+title = "NeoBharat"
 themesDir = "themes"
 theme = "hugo-hero-theme"
 
